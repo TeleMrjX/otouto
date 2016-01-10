@@ -6,7 +6,7 @@ return {
 	thecatapi_key = '',
 	time_offset = 0,
 	lang = 'en',
-	admin = 00000000,
+	admin = 160604259,
 	about_text = [[
 I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
 
@@ -55,10 +55,10 @@ telegram.me/otouto
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['160604259'] = 'MRJX'
 		},
-		admin_group = -00000000,
-		realm_name = 'My Realm'
+		admin_group = -,
+		realm_name = 'Realm'
 	},
 	plugins = {
 		'blacklist.lua',
